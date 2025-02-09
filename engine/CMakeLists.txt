@@ -1,0 +1,6 @@
+add_subdirectory(ke_core)
+add_subdirectory(ke_VkDeviceManager)
+add_subdirectory(ke_VkRenderer)
+add_subdirectory(ke_VkRenderPass)
+add_subdirectory(ke_VkDescriptorSetLayout)
+add_subdirectory(ke_VkGraphicsPipeline)

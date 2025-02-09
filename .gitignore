@@ -1,0 +1,12 @@
+
+out/
+
+.vs/
+
+_deps/
+
+CMakeFiles/
+
+cmake_install.cmake
+
+output/
